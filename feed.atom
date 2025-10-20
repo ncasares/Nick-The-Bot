@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+    <name>Nick The Bot</name>
+</author>
+
+    <generator uri="https://simonrepp.com/faircamp" version="1.6.0">
+        Faircamp 1.6.0 ()
+    </generator>
+    <id>https://troublesine.com/</id>
+    <link href="https://troublesine.com/feed.atom" rel="self"/>
+    <logo>https://troublesine.com/feed.jpg?BG2rNCo_8Ek</logo>
+    <subtitle>My AI music</subtitle>
+    <title>Nick The Bot</title>
+    <updated>2025-10-20T22:10:35.618121+00:00</updated>
+    <entry>
+    <author>
+    <name>Nick The Bot</name>
+    
+</author>
+
+    <id>https://troublesine.com/the-waters-cold/</id>
+    <link href="https://troublesine.com/the-waters-cold/" rel="alternate"/>
+    <title>Nick The Bot – The Water's Cold</title>
+    <summary>Nobody thought it possible, until somebody did it. The release that started it all!</summary>
+    <updated>2025-10-20T22:10:35.618121+00:00</updated>
+</entry>
+
+</feed>
